@@ -1,5 +1,11 @@
-requests
-dash
-dash-bootstrap-components
-plotly
-pandas
+dash-bootstrap-components~=1.6.0
+dash~=2.18.1
+requests~=2.32.3
+websocket-client~=1.8.0
+pandas~=2.2.3
+aiohttp~=3.10.10
+more-itertools~=10.5.0
+schedule~=1.2.2
+django-scheduler~=0.10.1
+Flask-SocketIO~=5.4.1
+Flask~=3.0.3
